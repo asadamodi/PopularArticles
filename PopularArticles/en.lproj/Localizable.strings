@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  PopularArticles
+
+  Created by Asad on 22/06/22.
+  
+*/
+"pleaseWait" = "Please wait....";
+"noInternetAlert" = "Not connected to internet.";
+
+
+//MARK: ArticleListViewController
+"articles" = "Articles";
+"pullToRefresh" = "Pull to refresh";
